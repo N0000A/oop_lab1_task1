@@ -1,2 +1,2 @@
 # oop_lab1_task1
-##  I
+##  Ivanenko Nikita Alecksandrovich
